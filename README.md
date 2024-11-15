@@ -1,6 +1,6 @@
 # data-analytics-portfolio
 My Data Analysis Portfolio
-# Jackie Wairimu Kahiu - Data Analyst Portfolio
+# Jackie Wairimu Kahiu - Data Analyst
 
 ## About Me
 I'm a Data Analyst with over 3 years of experience. I specialize in data analysis, reporting, and visualization, with a strong background in using tools like Excel, SQL, Power BI, and Python.
