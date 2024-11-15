@@ -13,4 +13,4 @@ I'm a Data Analyst with over 3 years of experience. I specialize in data analysi
 
 ## Contact
 - Email: jackline.kahiu@gmail.com
-- LinkedIn: [Profile Link](https://www.linkedin.com/in/jackline-wairimu-kahiu)
+- LinkedIn: [[Profile Link](https://www.linkedin.com/in/jackline-wairimu-kahiu)](https://www.linkedin.com/in/jackline-kahiu-a7527984/)
